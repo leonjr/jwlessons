@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
   <name>jwlesson-parent</name>
     <modules>
-        <module>../lesson1</module>
+        <module>lesson1</module>
     </modules>
     <dependencies>
       <dependency>
